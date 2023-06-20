@@ -7,3 +7,5 @@ According to the case, Bellabeat is a successful small company, but they have th
 Sršen knows that an analysis of Bellabeat’s available consumer data would reveal more opportunities for growth. She has asked the marketing analytics team to focus on a Bellabeat product and analyze smart device usage data in order to gain insight into how people are already using their smart devices. Then, using this information, she would like high-level recommendations for how these trends can inform Bellabeat marketing strategy.
 
 For more information, please see the attached files.
+
+To better visualize the dashboard, use the following link: https://app.powerbi.com/view?r=eyJrIjoiNDE0MTI0NDItNjcwZC00MDAwLTgwYjctMWU5MjczODdkZTVlIiwidCI6IjBlMGNiMDYwLTA5YWQtNDlmNS1hMDA1LTY4YjliNDlhYTFmNiIsImMiOjR9
